@@ -3,20 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package practice;
 
 /**
  *
  * @author Jingkie
  */
-public class Practice {
-
-    /**
-     * @param args the command line arguments
-     */
+public class practice2 {
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("practise ni");
+        System.out.println("Hello Kara");
     }
-    
 }
